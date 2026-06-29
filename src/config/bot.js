@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Made with ❤️",
+        name: "Made By VenzoX_Fr",
         // Activity type number (0 = Playing).
         type: 0,
       },
@@ -183,7 +183,7 @@ export const botConfig = {
     begMin: 5,
     begMax: 50,
 
-    // Chance to succeed when robbing (0.4 = 40%).
+    // Chance to succeed when robbing (0.6 = 60%).
     robSuccessRate: 0.4,
 
     // Jail time after failed rob (milliseconds).
